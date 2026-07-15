@@ -8,6 +8,9 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
+Ctrl + O  (Write Out/Save)
+Enter     (Confirm filename)
+Ctrl + X  (Exit)
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true
   },
